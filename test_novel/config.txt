@@ -1,0 +1,10 @@
+{
+    '旁白':{"generate_mode":"本人2"},
+
+    '伊莉丝':{"prompt_wav_upload":'audio_file_samples/吸血鬼.wav'},
+
+    '赛飞儿':{"prompt_wav_upload":'audio_file_samples/赛飞儿.wav'},
+
+    '盗火行者':{"prompt_wav_upload":'audio_file_samples/本人.wav'},
+
+}
